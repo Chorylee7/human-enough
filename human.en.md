@@ -1,3 +1,5 @@
+![Human Enough: mist blue, sage and gold cover](./assets/cover-en.png)
+
 # Human Enough
 
 **人 · [简体中文](./人.md) | English**

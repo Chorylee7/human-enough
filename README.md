@@ -1,4 +1,6 @@
-![人 / Human Enough：许多信息轻轻经过，少数值得留下 / Let most signals pass; keep what matters](./assets/cover.png)
+| [简体中文 · 人](./人.md) | [English · Human Enough](./human.en.md) |
+| :---: | :---: |
+| [![人：暖象牙白与陶土色封面](./assets/cover-zh.png)](./人.md) | [![Human Enough: mist blue, sage and gold cover](./assets/cover-en.png)](./human.en.md) |
 
 # Human Enough｜人
 
@@ -74,7 +76,7 @@ We hope each entry helps readers put down one unnecessary obligation.
 
 > 来源：《人》，Chorylee7 与贡献者，https://github.com/Chorylee7/human-enough，CC BY-SA 4.0。本版本修改了……（未修改时注明“未修改”）。
 
-外部链接指向的资料不属于本仓库的授权范围，仍适用各自的权利声明。封面 `assets/cover.png` 为 AI 生成；对其中本项目有权许可的部分，同样采用 CC BY-SA 4.0，不主张不存在的权利。
+外部链接指向的资料不属于本仓库的授权范围，仍适用各自的权利声明。`assets/` 中的封面为 AI 生成；对其中本项目有权许可的部分，同样采用 CC BY-SA 4.0，不主张不存在的权利。
 
 提交贡献即表示你有权提交相应内容，并同意将其按上述许可发布。
 
@@ -86,6 +88,6 @@ Example attribution:
 
 > Source: Human Enough (人), Chorylee7 and contributors, https://github.com/Chorylee7/human-enough, CC BY-SA 4.0. Changes: … (or “Unmodified”).
 
-Linked external materials retain their own rights notices and are outside this repository's license. The cover, `assets/cover.png`, is AI-generated; any rights this project is entitled to license in it are also offered under CC BY-SA 4.0. No rights are claimed where none exist.
+Linked external materials retain their own rights notices and are outside this repository's license. The covers in `assets/` are AI-generated; any rights this project is entitled to license in them are also offered under CC BY-SA 4.0. No rights are claimed where none exist.
 
 By contributing, you confirm that you have the right to submit your contribution and agree to its publication under the license above.
