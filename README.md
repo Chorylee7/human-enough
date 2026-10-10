@@ -2,6 +2,8 @@
 
 # 人.md
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)
+
 **你接收到了很多信息，但你不欠每一条信息一个回应。**
 
 一份写给容易注意到细节、习惯承担责任、反复解释自己的人的生活手册。
@@ -36,3 +38,17 @@
 欢迎通过 Issue 或 Pull Request 提交具体场景、反例、文字修改与有来源的参考材料。请说明建议适用于什么情况；分享经历时请去除个人身份、私人聊天和其他敏感信息。
 
 我们希望每个条目帮助读者少背一个不必要的任务。
+
+## 许可与转载
+
+© 2026 Chorylee7 与《人.md》贡献者。除另有注明外，本仓库的原创文字采用 [知识共享署名—相同方式共享 4.0 国际许可（CC BY-SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)，完整条款见 [LICENSE](./LICENSE)。
+
+允许转载、翻译、改编及商业使用；分享时请保留署名、来源和许可信息，标明修改，并按许可要求以相同或兼容的许可分享改编作品。不得暗示原作者为改编或使用背书。内容按现状提供，不作保证，具体以 LICENSE 为准。
+
+署名示例：
+
+> 来源：《人.md》，Chorylee7 与贡献者，https://github.com/Chorylee7/ren-md，CC BY-SA 4.0。本版本修改了……（未修改时注明“未修改”）。
+
+外部链接指向的资料不属于本仓库的授权范围，仍适用各自的权利声明。封面 `assets/cover.png` 为 AI 生成；对其中本项目有权许可的部分，同样采用 CC BY-SA 4.0，不主张不存在的权利。
+
+提交贡献即表示你有权提交相应内容，并同意将其按上述许可发布。
