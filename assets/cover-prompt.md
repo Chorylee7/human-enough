@@ -1,5 +1,13 @@
 # 封面设计记录
 
+当前封面标题：人 / Human Enough。使用内置 imagegen 在原封面上编辑标题，保留纸张、人形和信息流构图。
+
+双语版编辑提示词：
+
+> Edit the provided GitHub cover. Change only the title typography in the left open area. Remove '人.md' and replace it with a bilingual editorial title: large Chinese '人', with English 'Human Enough' on a separate line underneath in elegant black serif typography. Exact text only: '人' and 'Human Enough'. Both lines should be clearly legible at GitHub README display size, with balanced hierarchy and generous spacing. Preserve the wide 2:1 composition, warm off-white textured paper, translucent paper human silhouette on the right, all graphite threads and specks, orange signal lines, colors, lighting, and poetic handmade printmaking style. Do not add any other text or alter the illustration.
+
+## 原始封面
+
 生成方式：OpenAI 内置 imagegen。
 
 概念：接收很多信息，但不需要回应所有信息。以温暖的纸张、透明的人形和细线表现开放与选择，大部分信号经过，少数橙色信号留下。

@@ -1,4 +1,4 @@
-![人：许多信息轻轻经过，少数值得留下](./assets/cover.png)
+![人 / Human Enough：许多信息轻轻经过，少数值得留下 / Let most signals pass; keep what matters](./assets/cover.png)
 
 # Human Enough｜人
 
