@@ -1,6 +1,6 @@
-![人.md：许多信息轻轻经过，少数值得留下](./assets/cover.png)
+![人：许多信息轻轻经过，少数值得留下](./assets/cover.png)
 
-# 人.md
+# Human Enough｜人
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)
 
@@ -10,7 +10,7 @@
 
 它讨论：没回的消息、别人的情绪、拒绝后的愧疚、停不下来的复盘，以及那些让休息也变成考试的自我要求。
 
-## [开始阅读《人.md》](./人.md)
+## [开始阅读《人》](./人.md)
 
 每章从一个具体场景开始，留下一条可以采取的行动，以及一个可以结束处理的位置。
 
@@ -41,13 +41,13 @@
 
 ## 许可与转载
 
-© 2026 Chorylee7 与《人.md》贡献者。除另有注明外，本仓库的原创文字采用 [知识共享署名—相同方式共享 4.0 国际许可（CC BY-SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)，完整条款见 [LICENSE](./LICENSE)。
+© 2026 Chorylee7 与《人》贡献者。除另有注明外，本仓库的原创文字采用 [知识共享署名—相同方式共享 4.0 国际许可（CC BY-SA 4.0）](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)，完整条款见 [LICENSE](./LICENSE)。
 
 允许转载、翻译、改编及商业使用；分享时请保留署名、来源和许可信息，标明修改，并按许可要求以相同或兼容的许可分享改编作品。不得暗示原作者为改编或使用背书。内容按现状提供，不作保证，具体以 LICENSE 为准。
 
 署名示例：
 
-> 来源：《人.md》，Chorylee7 与贡献者，https://github.com/Chorylee7/ren-md，CC BY-SA 4.0。本版本修改了……（未修改时注明“未修改”）。
+> 来源：《人》，Chorylee7 与贡献者，https://github.com/Chorylee7/human-enough，CC BY-SA 4.0。本版本修改了……（未修改时注明“未修改”）。
 
 外部链接指向的资料不属于本仓库的授权范围，仍适用各自的权利声明。封面 `assets/cover.png` 为 AI 生成；对其中本项目有权许可的部分，同样采用 CC BY-SA 4.0，不主张不存在的权利。
 
