@@ -4,7 +4,9 @@
 
 ## 中文 / cover-zh.png
 
-> Edit this cover into the Chinese member of a coordinated pair of editorial covers. Exact title text only '人', large refined black Chinese typography in the left half. Remove English text. Preserve the 2:1 wide format, translucent paper human silhouette on the right, fine flowing threads and specks that mostly drift past, and tactile handmade paper aesthetic. Warm ivory paper, muted terracotta and apricot accents, warm graphite threads. Give the single Chinese character generous breathing room and strong visual presence. Quiet sophisticated literary cover. No other text, no watermark.
+2026-10-11 更名更新：使用 OpenAI 内置 imagegen 编辑原中文封面，输出保存为 `assets/cover-zh.png`。
+
+> Use case: text-localization. Edit target: the supplied Chinese handbook cover. Preserve the wide 2:1 format, warm ivory tactile paper, translucent paper human silhouette on the right, graphite threads, terracotta and apricot specks, orange lines, and quiet literary aesthetic. Replace the single large Chinese character 人 in the left area with the exact title 不必懂事指南, arranged on two spacious lines: 不必懂事 / 指南. Beneath it add the exact smaller subtitle 你可以体谅别人，也不必总委屈自己。 in an elegant readable Chinese font. Make all Chinese text accurate, dark and legible. Adjust only typography and the immediate text area to accommodate the longer title; preserve the illustration and palette. No other text, no watermark.
 
 ## English / cover-en.png
 

@@ -2,13 +2,17 @@
 
 # Human Enough
 
-**人 · [简体中文](./人.md) | English**
+**不必懂事指南 · [简体中文](./人.md) | English**
 
-> You take in a lot of information. You don't owe every signal a response.
+> You can care about others without always putting your own needs aside.
 
 For people who notice the details, take on responsibility, and keep explaining themselves.
 
 Perhaps you've had an evening like this: the moment is long over, but you're still replaying a sentence, examining an expression, or trying to interpret a silence. You want to make sure you haven't offended anyone, disappointed anyone, or missed something you ought to fix.
+
+The Chinese edition is titled 《不必懂事指南》 (formerly 《人》). Its title invites you to make room for your needs, rather than earn approval by always putting them aside. You remain responsible for your actions, and you can care about others while respecting your own needs.
+
+You take in a lot of information. You don't owe every signal a response.
 
 This handbook helps you sort out what calls for action, what calls for rest, and what you can leave unanswered for now.
 
@@ -217,6 +221,6 @@ The chapter titles, scenes, sample phrases, and “You can stop here” passages
 
 ## License and reuse
 
-© 2026 Chorylee7 and contributors to Human Enough (人). This text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](./LICENSE) for the full terms. Copying, translation, adaptation, and commercial use are permitted subject to the license. When sharing, retain attribution, source and license information, indicate changes, and share adaptations under the same or a compatible license as required. The material is provided as-is, without warranties. External references remain subject to their respective rights notices.
+© 2026 Chorylee7 and contributors to Human Enough (不必懂事指南). This text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](./LICENSE) for the full terms. Copying, translation, adaptation, and commercial use are permitted subject to the license. When sharing, retain attribution, source and license information, indicate changes, and share adaptations under the same or a compatible license as required. The material is provided as-is, without warranties. External references remain subject to their respective rights notices.
 
-Source: [Human Enough (人)](https://github.com/Chorylee7/human-enough), Chorylee7 and contributors. This English edition is translated and adapted from the Chinese text in this repository.
+Source: [Human Enough (不必懂事指南)](https://github.com/Chorylee7/human-enough), Chorylee7 and contributors. This English edition is translated and adapted from the Chinese text in this repository.

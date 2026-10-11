@@ -1,8 +1,10 @@
 # 封面设计记录
 
-当前封面标题：人 / Human Enough。使用内置 imagegen 在原封面上编辑标题，保留纸张、人形和信息流构图。
+当前封面标题：不必懂事指南 / Human Enough。中文副标题：你可以体谅别人，也不必总委屈自己。使用内置 imagegen 在原封面上编辑标题，保留纸张、人形和信息流构图。
 
-双语版编辑提示词：
+## 历史双语封面
+
+以下为原名《人》时期的双语版编辑提示词：
 
 > Edit the provided GitHub cover. Change only the title typography in the left open area. Remove '人.md' and replace it with a bilingual editorial title: large Chinese '人', with English 'Human Enough' on a separate line underneath in elegant black serif typography. Exact text only: '人' and 'Human Enough'. Both lines should be clearly legible at GitHub README display size, with balanced hierarchy and generous spacing. Preserve the wide 2:1 composition, warm off-white textured paper, translucent paper human silhouette on the right, all graphite threads and specks, orange signal lines, colors, lighting, and poetic handmade printmaking style. Do not add any other text or alter the illustration.
 
