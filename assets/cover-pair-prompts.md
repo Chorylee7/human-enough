@@ -4,9 +4,9 @@
 
 ## 中文 / cover-zh.png
 
-2026-10-11 更名更新：使用 OpenAI 内置 imagegen 编辑原中文封面，输出保存为 `assets/cover-zh.png`。
+2026-10-11 中文封面更新：使用 OpenAI 内置 imagegen 编辑原中文封面，输出保存为 `assets/cover-zh.png`。
 
-> Use case: text-localization. Edit target: the supplied Chinese handbook cover. Preserve the wide 2:1 format, warm ivory tactile paper, translucent paper human silhouette on the right, graphite threads, terracotta and apricot specks, orange lines, and quiet literary aesthetic. Replace the single large Chinese character 人 in the left area with the exact title 不必懂事指南, arranged on two spacious lines: 不必懂事 / 指南. Beneath it add the exact smaller subtitle 你可以体谅别人，也不必总委屈自己。 in an elegant readable Chinese font. Make all Chinese text accurate, dark and legible. Adjust only typography and the immediate text area to accommodate the longer title; preserve the illustration and palette. No other text, no watermark.
+> Use case: text-localization. Edit target: the supplied Chinese handbook cover. Preserve the wide 2:1 format, warm ivory tactile paper, translucent paper human silhouette on the right, graphite threads, terracotta and apricot specks, orange lines, and quiet literary aesthetic. Set the title in the left area to the exact text 不必懂事指南, arranged on two spacious lines: 不必懂事 / 指南. Beneath it add the exact smaller subtitle 你可以体谅别人，也不必总委屈自己。 in an elegant readable Chinese font. Make all Chinese text accurate, dark and legible. Adjust only typography and the immediate text area to accommodate the longer title; preserve the illustration and palette. No other text, no watermark.
 
 ## English / cover-en.png
 

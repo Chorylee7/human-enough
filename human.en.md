@@ -2,7 +2,7 @@
 
 # Human Enough
 
-**不必懂事指南 · [简体中文](./人.md) | English**
+**不必懂事指南 · [简体中文](./不必懂事指南.md) | English**
 
 > You can care about others without always putting your own needs aside.
 
@@ -10,7 +10,7 @@ For people who notice the details, take on responsibility, and keep explaining t
 
 Perhaps you've had an evening like this: the moment is long over, but you're still replaying a sentence, examining an expression, or trying to interpret a silence. You want to make sure you haven't offended anyone, disappointed anyone, or missed something you ought to fix.
 
-The Chinese edition is titled 《不必懂事指南》 (formerly 《人》). Its title invites you to make room for your needs, rather than earn approval by always putting them aside. You remain responsible for your actions, and you can care about others while respecting your own needs.
+The Chinese edition is titled 《不必懂事指南》. Its title invites you to make room for your needs, rather than earn approval by always putting them aside. You remain responsible for your actions, and you can care about others while respecting your own needs.
 
 You take in a lot of information. You don't owe every signal a response.
 
