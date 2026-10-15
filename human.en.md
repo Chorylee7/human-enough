@@ -2,35 +2,139 @@
 
 # Human Enough
 
-**不必懂事指南 · [简体中文](./不必懂事指南.md) | English**
+**人生不烧心指南 · [简体中文](./人生不烧心指南.md) | English**
 
-> You can care about others without always putting your own needs aside.
+> Meet ordinary responsibilities. Leave room to be human.
 
 For people who notice the details, take on responsibility, and keep explaining themselves.
 
 Perhaps you've had an evening like this: the moment is long over, but you're still replaying a sentence, examining an expression, or trying to interpret a silence. You want to make sure you haven't offended anyone, disappointed anyone, or missed something you ought to fix.
 
-The Chinese edition is titled 《不必懂事指南》. Its title invites you to make room for your needs, rather than earn approval by always putting them aside. You remain responsible for your actions, and you can care about others while respecting your own needs.
+The Chinese edition is titled 《人生不烧心指南》, a guide to living with less inner turmoil. It is for anyone who wonders whether they are doing enough: what is your responsibility, what is someone else's expectation, and what is an extra demand you place on yourself? An action can deserve praise without its absence deserving blame.
 
 You take in a lot of information. You don't owe every signal a response.
 
 This handbook helps you sort out what calls for action, what calls for rest, and what you can leave unanswered for now.
 
-Here, “high sensitivity” describes a kind of lived experience, not a diagnosis. You don't need to prove you belong to a personality category to use this handbook. Its scenes and short reflections are mainly the author's observations about everyday life. Research and guidance from professional organizations appear at the end as references; they do not validate every sentence.
+Here, “high sensitivity” describes a kind of lived experience, not a diagnosis. You don't need to prove you belong to a personality category to use this handbook. Its responsibility and boundary principles, scenes, and short reflections are mainly the author's observations about everyday life. Research and guidance from professional organizations appear at the end as references; they do not validate every sentence.
 
 ## Contents
 
-1. [Noticing it doesn't make it your responsibility](#noticing-it-doesnt-make-it-your-responsibility)
-2. [No one is grading you, but you're still handing in the assignment](#no-one-is-grading-you-but-youre-still-handing-in-the-assignment)
-3. [You can disappoint someone without being a bad person](#you-can-disappoint-someone-without-being-a-bad-person)
-4. [Someone frowns, and you rewrite your entire life](#someone-frowns-and-you-rewrite-your-entire-life)
-5. [You don't have to keep proving you meant well](#you-dont-have-to-keep-proving-you-meant-well)
-6. [Not every uncomfortable feeling needs to disappear immediately](#not-every-uncomfortable-feeling-needs-to-disappear-immediately)
-7. [Some questions won't become clearer with more thinking](#some-questions-wont-become-clearer-with-more-thinking)
-8. [You were the good kid; now you can learn to be a beginner](#you-were-the-good-kid-now-you-can-learn-to-be-a-beginner)
-9. [You're already tired; you don't have to become a better person today](#youre-already-tired-you-dont-have-to-become-a-better-person-today)
-10. [Some environments really do need to be left](#some-environments-really-do-need-to-be-left)
-11. [Start with this page today](#start-with-this-page-today)
+1. [A few ground rules](#a-few-ground-rules)
+2. [When does someone's expectation become your obligation?](#when-does-someones-expectation-become-your-obligation)
+3. [If you didn't say yes, are you still responsible?](#if-you-didnt-say-yes-are-you-still-responsible)
+4. [You can be careful with money without making others pay your way](#you-can-be-careful-with-money-without-making-others-pay-your-way)
+5. [Saying no isn't harm; how you say it still matters](#saying-no-isnt-harm-how-you-say-it-still-matters)
+6. [How much repair is enough after a mistake?](#how-much-repair-is-enough-after-a-mistake)
+7. [Don't take advantage; you don't have to lose out every time](#dont-take-advantage-you-dont-have-to-lose-out-every-time)
+8. [Does someone's dissatisfaction mean you did a bad job?](#does-someones-dissatisfaction-mean-you-did-a-bad-job)
+9. [When can kindness clock off?](#when-can-kindness-clock-off)
+10. [Noticing it doesn't make it your responsibility](#noticing-it-doesnt-make-it-your-responsibility)
+11. [No one is grading you, but you're still handing in the assignment](#no-one-is-grading-you-but-youre-still-handing-in-the-assignment)
+12. [You can disappoint someone without being a bad person](#you-can-disappoint-someone-without-being-a-bad-person)
+13. [Someone frowns, and you rewrite your entire life](#someone-frowns-and-you-rewrite-your-entire-life)
+14. [You don't have to keep proving you meant well](#you-dont-have-to-keep-proving-you-meant-well)
+15. [Not every uncomfortable feeling needs to disappear immediately](#not-every-uncomfortable-feeling-needs-to-disappear-immediately)
+16. [Some questions won't become clearer with more thinking](#some-questions-wont-become-clearer-with-more-thinking)
+17. [You were the good kid; now you can learn to be a beginner](#you-were-the-good-kid-now-you-can-learn-to-be-a-beginner)
+18. [You're already tired; you don't have to become a better person today](#youre-already-tired-you-dont-have-to-become-a-better-person-today)
+19. [Some environments really do need to be left](#some-environments-really-do-need-to-be-left)
+20. [Start with this page today](#start-with-this-page-today)
+21. [Where this handbook cannot help](#where-this-handbook-cannot-help)
+22. [References and limits of the evidence](#references-and-limits-of-the-evidence)
+23. [License and reuse](#license-and-reuse)
+
+## A few ground rules
+
+These are everyday judgment principles proposed by this project, open to discussion and counterexamples. They are not a measure of society's average morality, legal advice, professional standards, or a universal verdict on relationships. Caregiving, work roles, shared living arrangements, and immediate danger may create additional responsibilities that require context.
+
+| Level | Principle | Examples |
+| --- | --- | --- |
+| What you should do | Take responsibility for your actions, clear commitments, and actual duties | Don't deliberately deceive; respect a clear refusal; address harm you cause; communicate promptly when you cannot keep a commitment |
+| What you may choose | Extra help deserves thanks; an expectation alone does not create a debt | Last-minute favors, lending money, companionship, mediating disputes, being constantly available |
+| What you may decline | Keep personal space without infringing on others' rights | Explaining all your private life; attending every gathering; satisfying everyone; forgiving every harm |
+
+Look at facts, agreements, impact, and capacity before choosing an action. Your discomfort doesn't necessarily mean you did wrong. Someone else's dissatisfaction doesn't necessarily mean everything is fine, either. Judge specific behavior.
+
+## When does someone's expectation become your obligation?
+
+A friend says, “I thought you'd come,” and you suddenly feel you've broken a promise. But you never agreed to go.
+
+An expectation can begin a conversation; one person's hope alone cannot complete a mutual agreement. Did you clearly agree? Is this an established division of responsibilities you both accept? Did your words give them reasonable grounds to make arrangements around you?
+
+If your words reasonably led them to expect you, clarify and address the specific impact. If they simply hoped you'd be there, you can care about their disappointment while keeping your plans.
+
+**You can stop here:** You've clarified the agreement and met your actual responsibilities. You don't owe compensation for every expectation you never accepted.
+
+## If you didn't say yes, are you still responsible?
+
+A colleague hands you a last-minute task because “you're good with details.” You haven't accepted, but start worrying that any project failure will be your fault.
+
+Being good at something doesn't automatically make it your job. Check your role and accepted commitments first. An existing duty doesn't disappear just because you never verbally said yes. For requests beyond your role, explain your time and capacity before deciding.
+
+You could say, “I can review this page today. Someone else needs to own the rest.” If you promise to review it, follow through; if you cannot, tell them promptly so they can adjust.
+
+**You can stop here:** You've clarified the scope and done your part. Having a little capacity left doesn't make every remaining gap your debt.
+
+## You can be careful with money without making others pay your way
+
+The group wants to add an expensive dish. You don't want to pay, but worry about seeming stingy. Equally, if you want the dish, don't assume others will subsidize it.
+
+When money, time, or possessions are involved, explain the arrangement first and give those bearing the cost a choice. You can state a budget or opt out. Settle expenses you already agreed to share.
+
+You could say, “That's beyond my budget, so I won't join that part. You can order it separately.” Don't shame someone as stingy to make your own life easier.
+
+**You can stop here:** You've paid your agreed share and explained the arrangement. Treating others can be a gift, rather than an admission fee for being worth knowing.
+
+## Saying no isn't harm; how you say it still matters
+
+You can decline a favor. The person asking needn't be mocked or humiliated for asking.
+
+Make the decision clear instead of implying you'll agree while leaving them waiting. A reasonable request can receive a brief answer. Persistent pressure or boundary violations may call for a firmer end to the conversation.
+
+“I can't help this time” usually communicates the decision. You can give necessary context without disclosing your entire private life. Existing commitments or duties require negotiating a change, rather than treating them as a fresh invitation.
+
+**You can stop here:** You've communicated the decision and explained the relevant impact. Their temporary unhappiness doesn't require an immediate reversal.
+
+## How much repair is enough after a mistake?
+
+You forget to send a document and delay a colleague. After sending it, you want to keep apologizing until they're no longer upset.
+
+Acknowledge the specific mistake, ask about or confirm the impact, make reasonable repairs, and explain how you'll reduce the chance of repeating it. Sending the document, helping rearrange plans, and addressing reasonable losses do more than repeatedly putting yourself down.
+
+Some effects cannot be repaired immediately, and some responsibilities continue. Forgiveness is their choice; sincere repair is shown through action. An apology doesn't erase responsibility, and responsibility doesn't require accepting endless humiliation.
+
+**You can stop here:** The repairs possible now are complete, and continuing responsibilities have a clear plan. Without new impact to address, end this round of self-judgment for now.
+
+## Don't take advantage; you don't have to lose out every time
+
+A friend always expects you to travel farther. You worry that keeping track will damage the friendship. An occasional convenience can be considerate; a persistent one-way burden deserves a conversation.
+
+Fairness needn't be calculated minute by minute. Over time, ask whether arrangements are sustainable, whether disagreement can be expressed freely, and whether burdens are taken seriously. Supporting someone with limited capacity can also be a mutually accepted arrangement.
+
+You could say, “I've made the trip the last few times. Let's choose somewhere convenient for both of us next time.” Discuss the arrangement without first proving they're a bad person.
+
+**You can stop here:** You've proposed a reasonable adjustment. Consideration can go both ways; the same person needn't always cover the cost.
+
+## Does someone's dissatisfaction mean you did a bad job?
+
+You've delivered what was agreed, but your collaborator wants more. You start feeling that you haven't done your part unless they're happy.
+
+Ask what the dissatisfaction concerns: a missed commitment, an unaddressed impact, a different preference, or an added expectation? The first two call for a response. New requests call for a new discussion of scope, timing, and cost.
+
+Don't hide a real problem behind “I followed the process,” either. Agreements can be unclear, and outcomes can affect people. Review and correct what needs correcting without treating every complaint as a final verdict.
+
+**You can stop here:** You've addressed specific problems and discussed new requests. You don't have to guarantee everyone's satisfaction before finishing work.
+
+## When can kindness clock off?
+
+A friend is upset. You've listened for a long time and are exhausted yourself. You worry that going to sleep would mean you don't care enough.
+
+Care can have limits of time and capacity. You can say, “I can talk for another twenty minutes, then I need to rest. Let's also think about who else could support you.” Don't promise companionship you cannot sustain, or make yourself their only source of support.
+
+Immediate danger calls for local emergency services or appropriate professional support; ordinary rules for ending a conversation cannot simply be applied to it.
+
+**You can stop here:** When there is no immediate danger, you've explained your limits, kept your commitments, and helped identify other support where needed. You can rest and still be a caring person.
 
 ## Noticing it doesn't make it your responsibility
 
@@ -217,10 +321,10 @@ These materials support related concepts or methods. They do not establish that 
 - [WHO: Doing What Matters in Times of Stress](https://www.who.int/publications/i/item/9789240003927): practical guidance on grounding, unhooking from difficult thoughts, making room for emotions, and acting on values.
 - [NIMH: My Mental Health — Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help): considering severity, duration, and effects on daily functioning.
 
-The chapter titles, scenes, sample phrases, and “You can stop here” passages are the author's own synthesis, not an independently validated intervention. Specific counterexamples and references with a clear scope are welcome.
+The responsibility and boundary principles, chapter titles, scenes, sample phrases, and “You can stop here” passages are the author's own synthesis, not an independently validated intervention. Specific counterexamples and references with a clear scope are welcome.
 
 ## License and reuse
 
-© 2026 Chorylee7 and contributors to Human Enough (不必懂事指南). This text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](./LICENSE) for the full terms. Copying, translation, adaptation, and commercial use are permitted subject to the license. When sharing, retain attribution, source and license information, indicate changes, and share adaptations under the same or a compatible license as required. The material is provided as-is, without warranties. External references remain subject to their respective rights notices.
+© 2026 Chorylee7 and contributors to Human Enough (人生不烧心指南). This text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](./LICENSE) for the full terms. Copying, translation, adaptation, and commercial use are permitted subject to the license. When sharing, retain attribution, source and license information, indicate changes, and share adaptations under the same or a compatible license as required. The material is provided as-is, without warranties. External references remain subject to their respective rights notices.
 
-Source: [Human Enough (不必懂事指南)](https://github.com/Chorylee7/human-enough), Chorylee7 and contributors. This English edition is translated and adapted from the Chinese text in this repository.
+Source: [Human Enough (人生不烧心指南)](https://github.com/Chorylee7/human-enough), Chorylee7 and contributors. This English edition is translated and adapted from the Chinese text in this repository.
