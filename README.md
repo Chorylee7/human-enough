@@ -24,7 +24,7 @@ A practical guide to responsibility, expectations, and boundaries. An action can
 
 ### [日常不烧心 · 五个生活故事](./stories/日常不烧心-第一辑.md)
 
-从帮忙变成默认义务、被朋友拒绝、猜测消息语气，到反复检查和表达偏好。每篇附上可尝试的行动、停止条件、适用边界与资料来源。故事均为原创虚构合成场景。
+从帮忙变成默认义务、被朋友拒绝、猜测消息语气，到反复检查和表达偏好。每篇配有一张四格漫画，并附上可尝试的行动、停止条件、适用边界与资料来源。故事均为原创虚构合成场景，漫画为 AI 生成插图。
 
 ## 先立几条规矩
 
@@ -78,6 +78,6 @@ A practical guide to responsibility, expectations, and boundaries. An action can
 
 > 来源：《人生不烧心指南》，Chorylee7 与贡献者，https://github.com/Chorylee7/human-enough，CC BY-SA 4.0。本版本修改了……（未修改时注明“未修改”）。
 
-外部链接指向的资料不属于本仓库的授权范围，仍适用各自的权利声明。`assets/` 中的封面为 AI 生成；对其中本项目有权许可的部分，同样采用 CC BY-SA 4.0，不主张不存在的权利。
+外部链接指向的资料不属于本仓库的授权范围，仍适用各自的权利声明。`assets/` 中的封面与故事漫画为 AI 生成；对其中本项目有权许可的部分，同样采用 CC BY-SA 4.0，不主张不存在的权利。
 
 提交贡献即表示你有权提交相应内容，并同意将其按上述许可发布。
